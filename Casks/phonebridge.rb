@@ -1,6 +1,6 @@
 cask "phonebridge" do
   version "1.0.0"
-  sha256 "12bff23466008757c5bcb1891098f6e8101cf20e8cb801738c79e48b0dd6106a"
+  sha256 "1faeffdf2c840b4bde5075505d624b05aebe0d2badf22b433d4eeed6ae64622d"
 
   url "https://github.com/garam918/phonebridge/releases/download/v#{version}/PhoneBridge-#{version}.dmg"
   name "PhoneBridge"
