@@ -1,6 +1,7 @@
 # Homebrew tap for PhoneBridge
 
 ```sh
+brew trust --cask garam918/phonebridge/phonebridge   # Homebrew 7+: allow this tap's cask once
 brew install --cask garam918/phonebridge/phonebridge
 ```
 
